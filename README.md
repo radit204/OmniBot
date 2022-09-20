@@ -1,5 +1,7 @@
 # OmniBot
 
+![OmniBot](Images/Omni1.jpg) 
+
 Holonomic Drive, 4 Motor Omnidirectional Robot Platform
 
 Gripper included design with semi parallel grip design, able to grip up to 100mm boxes.
